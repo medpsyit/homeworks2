@@ -11,6 +11,6 @@
 - [Задание 2](https://github.com/medpsyit/homeworks2/blob/main/3/Homework%203_2/Homework%203_2/Homework%203_2.cpp)
 - [Задание 3](https://github.com/medpsyit/homeworks2/blob/main/3/Homework%203_3/Homework%203_3/Homework%203_3.cpp)
 ## [Урок 4](4):
-- [Задание 1]()
-- [Задание 2]()
-- [Задание 3]()
+- [Задание 1](https://github.com/medpsyit/homeworks2/blob/main/4/Homework%204_1/Homework%204_1/Homework%204_1.cpp)
+- [Задание 2](https://github.com/medpsyit/homeworks2/blob/main/4/Homework%204_2/Homework%204_2/Homework%204_2.cpp)
+- [Задание 3](https://github.com/medpsyit/homeworks2/blob/main/4/Homework%204_3/Homework%204_3/Homework%204_3.cpp)
