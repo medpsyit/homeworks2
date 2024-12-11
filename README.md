@@ -26,3 +26,6 @@
 - [Задание 2](https://github.com/medpsyit/homeworks2/blob/main/7/Homework%207_2/Homework%207_2/Homework%207_2.cpp)
 - [Задание 3](https://github.com/medpsyit/homeworks2/blob/main/7/Homework%207_3/Homework%207_3/Homework%207_3.cpp)
 - [Задание 4](https://github.com/medpsyit/homeworks2/blob/main/7/Homework%207_4/Homework%207_4/Homework%207_4.cpp)
+## [Урок 8](8):
+- [Задание 1](https://github.com/medpsyit/homeworks2/blob/main/8/Homework%208_1/Homework%208_1/Homework%208_1.cpp)
+- [Задание 2](https://github.com/medpsyit/homeworks2/blob/main/8/Homework%208_2/Homework%208_2/Homework%208_2.cpp)
